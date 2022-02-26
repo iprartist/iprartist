@@ -12,8 +12,9 @@
 
 ![image](https://user-images.githubusercontent.com/100464149/155837198-a263452a-1bd8-4c85-aa5b-0521961353bf.png)
 ![image](https://user-images.githubusercontent.com/100464149/155837119-f6fe6c43-c28a-4b1f-88b5-5882720754d1.png)
-![image](https://user-images.githubusercontent.com/100464149/155837226-b6a6ccb0-984c-4ac2-bd98-c2aed3d3c0a0.png)
 ![image](https://user-images.githubusercontent.com/100464149/155837158-8cca2c1d-bf3e-4f3c-8790-ea7072a53a7f.png)
+![image](https://user-images.githubusercontent.com/100464149/155837318-028564ef-dd79-4290-94bc-83cedb174ab3.png)
+![image](https://user-images.githubusercontent.com/100464149/155837326-0fe83dd9-d0f9-46e3-8290-13f04aa9a76d.png)
 > 衡量一个人成功的标志，不是看他登到顶峰的高度，而是看[他跌到低谷的反弹力](https://www.jianshu.com/p/7b93de9eaaff)，今天再大的事，到了明天就是小事；今年再大的事，到了明年就是故事；今生再大的事，到了来世就任人评说。
 
 ## 参考
