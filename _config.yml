@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+# jekyll主题
+title: IP|Artist
+description: "手艺人"
+# https://user-images.githubusercontent.com/98723675/151733107-162b0165-e1e6-41f0-af23-be649e6e3537.png
+# https://user-images.githubusercontent.com/98723675/151739908-a477af5a-52f0-43d4-9eb1-63591b86935b.png
+logo: https://user-images.githubusercontent.com/100464149/155836569-b1497732-51c1-4833-a1d6-78e36fe16c50.png
+author: 
+  name: "IPrArtist"
